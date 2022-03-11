@@ -2,7 +2,8 @@
   <component name="FileTypeManager" version="18">
     <ignoreFiles list="*$py.class;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc" />
     <extensionMap>
-      <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
+      <mapping ext="csv" type="CSV file" />
+      <removed_mapping ext="csv" type="CSV/TSV" />
     </extensionMap>
   </component>
 </application>
