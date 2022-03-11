@@ -1,0 +1,9 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="129.254.164.219" id="2b4c3d77-e89e-4873-8f99-7905d6d306bd" port="22" customName="maseol@129.254.164.219" nameFormat="CUSTOM" username="maseol" useOpenSSHConfig="true">
+        <option name="customName" value="maseol@129.254.164.219" />
+      </sshConfig>
+    </configs>
+  </component>
+</application>
